@@ -13,11 +13,7 @@ public class Main3 {
         switch (dayOfWeek)
         {
             case 1:
-                System.out.println("pn");
-                break;
             case 2:
-                System.out.println("vt");
-                break;
             case 3:
                 System.out.println("sr");
                 break;
